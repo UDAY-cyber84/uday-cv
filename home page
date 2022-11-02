@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title> ❣ UDAY.B.KIRAN</title>
+</head>
+
+<body>
+  <p>
+    <em>Student from JNTUH college of engineering </em>
+  </p>
+  <p>
+    I am learning MERN web devolopment course,love coffee and books
+  </p>
+  <hr>
+  <h3>Books I read</h3>
+    <ul>
+      <li>TLAM</li>
+      <li>IKIGAI</li>
+      <li>GITA</li>
+    </ul>
+
+  <h4>hobbies</h4>
+  <ol>
+    <li>watching crickets</li>
+    <li>coocking</li>
+    <li>reading books</li>
+  </ol>
+
+</body>
+
+</html>
